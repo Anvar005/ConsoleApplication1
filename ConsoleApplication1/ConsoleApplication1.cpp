@@ -23,8 +23,5 @@ int main() {
 	case 3:
 		cout << a * b << endl;;
 		break;
-	case 4:
-		cout << a / b << endl;
-		break;
 	}
 }
